@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppmasterTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+
+    <style name="GreenButton" parent="Widget.AppCompat.Light.Base.ActionButton">
+        <item name="android:background">@color/green_nephritis</item>
+        <item name="android:textColor">@color/button_text_color</item>
+        <item name="android:shadowColor">@color/button_text_shadow_color</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+    </style>
+
+</resources>

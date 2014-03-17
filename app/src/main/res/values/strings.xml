@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShareDemo</string>
+    <string name="share_button_label">Share this!</string>
+    <string name="action_about">About</string>
+    <string name="dialog_about_message">Example application to show intent example</string>
+    <string name="ok">Ok</string>
+    <string name="dialog_about_title">Android Appmaster</string>
+    <string name="share_edittext_hint">Text to share</string>
+
+</resources>
